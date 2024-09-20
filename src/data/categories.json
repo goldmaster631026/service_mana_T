@@ -1,0 +1,30 @@
+[
+    {
+        "collectionName": "Sneakers",
+        "nbrOfProducts": 89,
+        "imgSource": "/server-assets/arrival3.png",
+        "indexId": 0,
+        "collectionPath": "/2"
+    },
+    {
+        "collectionName": "football",
+        "nbrOfProducts": 120,
+        "imgSource": "/server-assets/football1.png",
+        "indexId": 1,
+        "collectionPath": "/2"
+    },
+    {
+        "collectionName": "Volleyball",
+        "nbrOfProducts": 200,
+        "imgSource": "/server-assets/volley1.png",
+        "indexId": 2,
+        "collectionPath": "/2"
+    },
+    {
+        "collectionName": "Basketball",
+        "nbrOfProducts": 72,
+        "imgSource": "/server-assets/football1.png",
+        "indexId": 3,
+        "collectionPath": "/2"
+    }
+]

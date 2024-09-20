@@ -1,0 +1,30 @@
+[
+    {
+        "company": "Nike",
+        "name": "Woman nike socks ",
+        "imgSrc": "/server-assets/thelook2.jpg",
+        "price": 120.5,
+        "id": 1
+    },
+    {
+        "company": "Adidas ",
+        "name": "Adidas man T-shirt",
+        "imgSrc": "/server-assets/thelook3.jpg",
+        "price": 42,
+        "id": 2
+    },
+    {
+        "company": "Nike",
+        "name": "Man nike white hoodie",
+        "imgSrc": "/server-assets/thelook7.jpg",
+        "price": 68,
+        "id": 3
+    },
+    {
+        "company": "Nike",
+        "name": "Man nike white hoodie",
+        "imgSrc": "/server-assets/thelook5.jpg",
+        "price": 68,
+        "id": 4
+    }
+]

@@ -1,0 +1,252 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Work Sans", sans-serif;
+  cursor: url("server-assets/Logo.svg");
+}
+
+.poppins {
+  font-family: poppins;
+}
+
+@layer components {
+  .button {
+    @apply w-full py-5 text-white bg-[rgb(10,8,58)] rounded-sm text-sm font-bold poppins transition duration-300;
+  }
+
+  .buttonOutline {
+    @apply w-full py-5 bg-transparent text-[rgb(10,8,58)] border border-[rgb(10,8,58)] rounded-sm text-sm font-bold poppins transition duration-300;
+  }
+
+  .loginOption {
+    @apply w-full h-14 p-3 border rounded-xl border-gray-400 grid place-items-center hover:scale-110 transition hover:border-none hover:shadow-2xl;
+  }
+}
+
+.bg-hover {
+  background-size: 120%;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (max-width: 1024px) {
+  .decoration {
+    background: linear-gradient(97.49deg, #8aa8f8 -0.43%, #315bff 144.53%);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  * {
+    cursor: auto;
+  }
+}
+
+::selection {
+  background-color: #ff3c76d9;
+  color: white;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (min-width: 600px) {
+  .lsm {
+    flex-direction: row-reverse;
+  }
+  .normal {
+    flex-direction: row;
+  }
+}
+
+.group:hover {
+  box-shadow: 1px 20px 46px -10px rgba(0, 71, 255, 0.89);
+  border: none;
+}
+
+.spinBlur {
+  animation: spinBlur 5s linear alternate infinite;
+}
+
+@keyframes spinBlur {
+  0% {
+    transform: translateX(-50rem);
+  }
+  25% {
+    transform: translateY(10rem);
+  }
+  50% {
+    transform: translateX(-50rem);
+  }
+  75% {
+    transform: translateY(10rem);
+  }
+  100% {
+    transform: translateX(-50rem);
+  }
+}
+
+.heart {
+  animation: animateHeart 2s ease;
+}
+
+@keyframes animateHeart {
+  0% {
+    width: auto;
+    height: auto;
+  }
+  100% {
+    width: 50rem;
+    height: 50rem;
+  }
+}
+
+.productSwiper .swiper {
+  height: 100% !important;
+  width: 100% !important;
+  display: grid !important;
+  grid-template-rows: 15fr 1fr;
+  justify-items: center;
+}
+
+.productSwiper .swiper-pagination-bullets,
+.productSwiper .swiper-pagination-horizontal {
+  width: 100% !important;
+  height: 0.2rem !important;
+  display: flex;
+  justify-content: space-between;
+  background: white !important;
+  gap: 1rem !important;
+}
+
+.productSwiper .swiper-pagination-bullet {
+  background-color: rgba(128, 128, 128, 0.488) !important;
+}
+.productSwiper .swiper-pagination-bullet,
+.productSwiper .swiper-pagination-bullet-active {
+  width: 100% !important;
+  height: 100% !important;
+  border-radius: 0% !important;
+  transition: 0.75s ease !important;
+}
+
+.productSwiper .swiper-pagination-bullet-active {
+  background-color: #315bff !important;
+}
+
+.youMayLikeSwiper .swiper {
+  height: 100% !important;
+  width: 100% !important;
+  display: grid !important;
+  grid-template-rows: 15fr 1fr;
+  justify-items: center;
+  gap: 2rem;
+}
+
+.youMayLikeSwiper .swiper-pagination-bullets,
+.youMayLikeSwiper .swiper-pagination-horizontal {
+  width: 70% !important;
+  height: 0.3rem !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  background: #f5f5f5 !important;
+  gap: 0rem !important;
+  border-radius: 10% !important;
+  margin-left: 15% !important;
+}
+
+.youMayLikeSwiper .swiper-pagination-bullet {
+  background-color: transparent !important;
+}
+.youMayLikeSwiper .swiper-pagination-bullet,
+.youMayLikeSwiper .swiper-pagination-bullet-active {
+  width: 200% !important;
+  height: 100% !important;
+  border-radius: 20% !important;
+  transition: 0.75s ease !important;
+}
+
+.youMayLikeSwiper .swiper-pagination-bullet-active {
+  background-color: #02be83 !important;
+}
+
+.collectionsSwiper .swiper {
+  height: 100% !important;
+  width: 100% !important;
+  display: grid !important;
+  grid-template-rows: 15fr 1fr;
+  justify-items: center;
+  gap: 2rem;
+}
+
+.collectionsSwiper .swiper-pagination-bullets,
+.collectionsSwiper .swiper-pagination-horizontal {
+  width: 70% !important;
+  height: 0.3rem !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  background: #ebebea !important;
+  gap: 0rem !important;
+  border-radius: 10% !important;
+  margin-left: 15% !important;
+  pointer-events: none !important;
+}
+
+.collectionsSwiper .swiper-pagination-bullets::after {
+  content: "\203A";
+  position: absolute;
+  right: -1.5rem;
+  top: -0.68rem;
+  cursor: pointer !important;
+}
+.collectionsSwiper .swiper-pagination-bullet {
+  background-color: transparent !important;
+}
+.collectionsSwiper .swiper-pagination-bullet,
+.collectionsSwiper .swiper-pagination-bullet-active {
+  width: 200% !important;
+  height: 100% !important;
+  border-radius: 20% !important;
+  transition: 0.75s ease !important;
+}
+
+.collectionsSwiper .swiper-pagination-bullet-active {
+  background-color: #02be83 !important;
+}
+
+button {
+  cursor: none;
+}
+
+.expansion-panel {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+.navDropdown {
+  transition: 2s ease;
+  cursor: pointer;
+  opacity: 0;
+}
+
+.navDropper:hover .navDropdown {
+  color: white;
+  animation: animateDropdown .5s ease-in;
+  opacity: 1;
+}
+
+@keyframes animateDropdown {
+  from {
+    transform: scale(0);
+    transform-origin: top left;
+    transform-box: fill-box;
+  } to {
+    transform: scale(1);
+  }
+}

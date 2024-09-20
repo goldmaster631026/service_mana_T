@@ -1,0 +1,22 @@
+[
+    {
+        "heading": "premium materials",
+        "content": "We provide high quality premium sneakers that are brand new and that are at high demand",
+        "imgSrc": "/server-assets/difference3.jpeg"
+    },
+    {
+        "heading": "Amazing discounts",
+        "content": "We provide the best discounts on our products, and hence you go home with your sneaker happily.",
+        "imgSrc": "/server-assets/difference2.svg"
+    },
+    {
+        "heading": "Fast delivery",
+        "content": "We deliver the product you ordered in less than four days in all the areas of the country.You only need to complete the order with just a single click!! ",
+        "imgSrc": "/server-assets/difference1.png"
+    },
+    {
+        "heading": "24h support",
+        "content": "You can reach out to us on our social media plaforms including instagram, facebook, twitter, and twitch. Checkout the links at the end of the page",
+        "imgSrc": "/server-assets/difference4.jpg"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "imgSrc": "/server-assets/women3.jpg",
+        "heading": "Our solution",
+        "id": 0,
+        "description": "Wearing proper walking shoes is a fundamental element in maintaining the correct walking technique, as well as preventing injury. ",
+        "triangles": [
+            {
+                "position": {
+                    "bottom": -1,
+                    "left": 0
+                },
+                "id": 0,
+                "rotation": "228"
+            },
+            {
+                "position": {
+                    "bottom": -1,
+                    "right": 16.5
+                },
+                "id": 3,
+                "rotation": "228"
+            },
+            {
+                "position": {
+                    "bottom": 0,
+                    "right": 17.5
+                },
+                "id": 3,
+                "rotation": "228"
+            }
+        ],
+        "delay": 1000
+    },
+    {
+        "imgSrc": "/server-assets/women.jpg",
+        "heading": "Process",
+        "id": 1,
+        "description": "Wearing proper walking shoes is a fundamental element in maintaining the correct walking technique, as well as preventing injury. ",
+        "triangles": [
+            {
+                "position": {
+                    "bottom": -2,
+                    "right": 1
+                },
+                "id": 0,
+                "rotation": "45"
+            },
+            {
+                "position": {
+                    "bottom": -2,
+                    "right": 3
+                },
+                "id": 1,
+                "rotation": "45"
+            },
+            {
+                "position": {
+                    "bottom": -0.75,
+                    "right": 0
+                },
+                "id": 3,
+                "rotation": "45"
+            },
+            {
+                "position": {
+                    "bottom": 0.75,
+                    "right": 0.75
+                },
+                "id": 2,
+                "rotation": "45"
+            }
+        ],
+        "delay": 1500
+    },
+    {
+        "imgSrc": "/server-assets/women1.jpg",
+        "heading": "Results",
+        "id": 2,
+        "description": "Wearing proper walking shoes is a fundamental element in maintaining the correct walking technique, as well as preventing injury. ",
+        "triangles": [
+            {
+                "position": {
+                    "bottom": -1,
+                    "left": 0
+                },
+                "id": 0,
+                "rotation": "228"
+            },
+            {
+                "position": {
+                    "bottom": -1,
+                    "right": 16.5
+                },
+                "id": 3,
+                "rotation": "228"
+            },
+            {
+                "position": {
+                    "bottom": 0,
+                    "right": 17.5
+                },
+                "id": 3,
+                "rotation": "228"
+            }
+        ],
+        "delay": 2000
+    }
+]

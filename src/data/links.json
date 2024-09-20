@@ -1,0 +1,22 @@
+[
+  {
+    "to": "/",
+    "end": true,
+    "displayName": "Footwear"
+  },
+  {
+    "to": "/about",
+    "end": false,
+    "displayName": "About us"
+  },
+  {
+    "to": "/products",
+    "end": true,
+    "displayName": "Products"
+  },
+  {
+    "to": "/sale",
+    "end": true,
+    "displayName": "Sale"
+  }
+]

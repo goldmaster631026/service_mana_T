@@ -1,0 +1,23 @@
+[
+    {
+        "imgSrc": "/server-assets/image 1.png",
+        "id": 0,
+        "summary": "Running shoes for men",
+        "description": "Best Men's shoes for marathon and other running related activities",
+        "productUrl": "/men"
+    },
+    {
+        "imgSrc": "/server-assets/image 4.png",
+        "id": 1,
+        "summary": "Nike shoes for women",
+        "description": "Best Men's shoes for marathon and other running related activities",
+        "productUrl": "/men"
+    },
+    {
+        "imgSrc": "/server-assets/lastImage.png",
+        "id": 2,
+        "summary": "Adidas Shoes for women",
+        "description": "Best Men's shoes for marathon and other running related activities",
+        "productUrl": "/men"
+    }
+]

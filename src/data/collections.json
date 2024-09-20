@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "/server-assets/women3.jpg",
+        "categoryName": "Performance",
+        "productsNbr": 120
+    },
+    {
+        "id": 2,
+        "imgSrc": "/server-assets/women1.jpg",
+        "categoryName": "Streetwear",
+        "productsNbr": 45
+    },
+    {
+        "id": 3,
+        "imgSrc": "/server-assets/women.jpg",
+        "categoryName": "Performance",
+        "productsNbr": 200
+    },
+    {
+        "id": 4,
+        "imgSrc": "/server-assets/women3.jpg",
+        "categoryName": "Streetwear",
+        "productsNbr": 100
+    },
+    {
+        "id": 5,
+        "imgSrc": "/server-assets/women1.jpg",
+        "categoryName": "Performance",
+        "productsNbr": 20
+    }
+]

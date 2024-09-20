@@ -1,0 +1,76 @@
+[
+    {
+        "sneakersType": "30",
+        "sneakersName": "Woman nike socks ",
+        "imgSrc": "/server-assets/thelook2.jpg",
+        "price": 120.5,
+        "id": 1,
+        "discount": 20
+    },
+    {
+        "sneakersType": "sale",
+        "sneakersName": "Man nike white hoodie",
+        "imgSrc": "/server-assets/thelook5.jpg",
+        "price": 68,
+        "id": 4
+    },
+    {
+        "sneakersType": "sale",
+        "sneakersName": "Man nike white hoodie",
+        "imgSrc": "/server-assets/thelook4.jpg",
+        "price": 48,
+        "id": 3,
+        "discount": 10
+    },
+    {
+        "sneakersType": "sale",
+        "sneakersName": "Nike streetwear",
+        "imgSrc": "/server-assets/thelook1.jpg",
+        "price": 47,
+        "id": 2
+    },
+    {
+        "sneakersType": "Man nike white hoodie",
+        "sneakersName": "Nike",
+        "imgSrc": "/server-assets/thelook4.jpg",
+        "price": 69,
+        "id": 3,
+        "discount": 10
+    },
+    {
+        "sneakersType": "sale",
+        "sneakersName": "Adidas man T-shirt",
+        "imgSrc": "/server-assets/thelook1.jpg",
+        "price": 49,
+        "id": 2
+    },
+    {
+        "sneakersType": "sale",
+        "sneakersName": "Nike streetwear",
+        "imgSrc": "/server-assets/thelook1.jpg",
+        "price": 47,
+        "id": 2
+    },
+    {
+        "sneakersType": "Man nike white hoodie",
+        "sneakersName": "Nike",
+        "imgSrc": "/server-assets/thelook4.jpg",
+        "price": 69,
+        "id": 3,
+        "discount": 10
+    },
+    {
+        "sneakersType": "sale",
+        "sneakersName": "Adidas man T-shirt",
+        "imgSrc": "/server-assets/thelook1.jpg",
+        "price": 49,
+        "id": 2
+    },
+    {
+        "sneakersType": "sale",
+        "sneakersName": "Adidas man T-shirt",
+        "imgSrc": "/server-assets/thelook1.jpg",
+        "price": 49,
+        "id": 2
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "imgSrc": "/server-assets/performance.png",
+        "heading": "performance",
+        "content": "Bust any of these sneakers you may like and enjoy how performant they are",
+        "id": 1
+    },
+    {
+        "imgSrc": "/server-assets/running.png",
+        "heading": "Running",
+        "content": "Bust any of these sneakers you may like and enjoy how they ease running and performant they are",
+        "id": 2
+    },
+    {
+        "imgSrc": "/server-assets/football.png",
+        "heading": "Football",
+        "content": "Bust any of these sneakers you may like and enjoy how football friendly and performant they are. ",
+        "id": 3
+    }
+]
+

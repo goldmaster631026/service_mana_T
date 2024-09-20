@@ -1,0 +1,17 @@
+[
+  {
+    "imgSrc": "/server-assets/handShake.svg",
+    "description": "founded",
+    "degree": 2014
+  },
+  {
+    "imgSrc": "/server-assets/clients.svg",
+    "description": "clients",
+    "degree": 2000
+  },
+  {
+    "imgSrc": "/server-assets/delivered.svg",
+    "description": "Countries delivered",
+    "degree": 20
+  }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "imgSrc": "/server-assets/nike.png"
+    },
+    {
+        "id": 1,
+        "imgSrc": "/server-assets/newBalance.png"
+    },
+    {
+        "id": 2,
+        "imgSrc": "/server-assets/adidas.png"
+    },
+    {
+        "id": 3,
+        "imgSrc": "/server-assets/horse.png"
+    }
+]

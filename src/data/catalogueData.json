@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://kgkicks.vercel.app/products/runningcataloguecollection",
+        "imgSrc": "/server-assets/women3.jpg",
+        "name": "Running",
+        "id": 1
+    },
+    {
+        "url": "https://kgkicks.vercel.app/products/walkingcataloguecollection",
+        "imgSrc": "/server-assets/women.jpg",
+        "name": "Walking",
+        "id": 2
+    },
+    {
+        "url": "https://kgkicks.vercel.app/products/casualcataloguecollection",
+        "imgSrc": "/server-assets/women1.jpg",
+        "name": "Casual",
+        "id": 3
+    },
+    {
+        "url": "https://kgkicks.vercel.app/products/accesoriescataloguecollection",
+        "imgSrc": "/server-assets/mcQueenWear.jpeg",
+        "name": "Accesories",
+        "id": 4
+    }
+]
